@@ -74,7 +74,7 @@
     var autoplaySettings = {
         autoplay: true,
         slideShowAutoplay: false,
-        slideShowInterval: 5000,
+        slideShowInterval: 10000,
         progressBar: true,
         forceSlideShowAutoplay: false,
         autoplayControls: true,
