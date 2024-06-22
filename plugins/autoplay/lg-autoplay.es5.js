@@ -68,7 +68,7 @@ var lGEvents = {
 var autoplaySettings = {
     autoplay: true,
     slideShowAutoplay: false,
-    slideShowInterval: 5000,
+    slideShowInterval: 10000, // Autoplay interval in milliseconds
     progressBar: true,
     forceSlideShowAutoplay: false,
     autoplayControls: true,
@@ -77,6 +77,7 @@ var autoplaySettings = {
         toggleAutoplay: 'Toggle Autoplay',
     },
 };
+
 
 /**
  * Creates the autoplay plugin.
